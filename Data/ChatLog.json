@@ -1,0 +1,66 @@
+[
+    {
+        "role": "user",
+        "content": "You."
+    },
+    {
+        "role": "assistant",
+        "content": "I'm Jarvis, nice to meet you, Amit Paul!"
+    },
+    {
+        "role": "user",
+        "content": "In whatsapp."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to WhatsApp. It's a popular messaging app owned by Meta Platforms, Inc."
+    },
+    {
+        "role": "user",
+        "content": "Open."
+    },
+    {
+        "role": "assistant",
+        "content": "You want to open WhatsApp!"
+    },
+    {
+        "role": "user",
+        "content": "Whatsapp mein kya dikkat hoti hai."
+    },
+    {
+        "role": "assistant",
+        "content": "You're asking about the common issues people face on WhatsApp. Some common problems include connection errors, unable to send or receive messages, voice or video call issues, and storage problems."
+    },
+    {
+        "role": "user",
+        "content": "Hello hello jarvis."
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Amit Paul! How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "Hack."
+    },
+    {
+        "role": "assistant",
+        "content": "You're concerned about WhatsApp hacking. WhatsApp uses end-to-end encryption to secure messages, making it a challenging task for hackers to access conversations. However, it's still possible for individual accounts to be compromised if passwords or verification codes are shared or weak passwords are used."
+    },
+    {
+        "role": "user",
+        "content": "And about whatsapp hacking whatsapp using to in description."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to WhatsApp's description of its security features. WhatsApp mentions that its end-to-end encryption ensures that only the sender and receiver can read or listen to the messages, and that WhatsApp itself cannot read or access the content of messages."
+    },
+    {
+        "role": "user",
+        "content": "Real time searching in."
+    },
+    {
+        "role": "assistant",
+        "content": "You're referring to Google!"
+    }
+]
